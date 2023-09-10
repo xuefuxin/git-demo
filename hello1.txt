@@ -1,5 +1,7 @@
-hello git!hello git!
+hello git!hello git!fix-hot-1111
 hello git!hello git!master-1111
+hello git!hello git!
+>>>>>>> hot-fix
 hello git!hello git!
 hello git!hello git!
 hello git!hello git!
